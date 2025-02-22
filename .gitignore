@@ -5,6 +5,7 @@ __pycache__/
 *$py.class
 venv/
 .env
+backend/.env
 
 # Build outputs
 dist/
