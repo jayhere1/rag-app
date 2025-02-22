@@ -41,7 +41,7 @@ export default function Layout() {
           padding: rem(12),
           color: 'white',
           fontFamily: 'Inter, system-ui, sans-serif',
-          backgroundColor: opened ? 'rgba(255,255,255,0.1)' : 'transparent',
+          backgroundColor: 'transparent',
           justifyContent: 'space-between',
           alignItems: 'center',
           borderRadius: '4px',
